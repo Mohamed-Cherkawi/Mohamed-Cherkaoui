@@ -8,11 +8,11 @@ I am a  learner developer .NET
 <img align="right" src="https://github.com/MaititeMohamed/MAITITEMOHAMED/blob/main/developer.svg" alt="Illustration of dev" width=350px height=500px/>
 <div align="center">
 <a>
-  <img src="https://github-readme-stats.vercel.app/api?username=MaititeMohamed&theme=tokyonight&show_icons=true" height=150 />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Cherkawi&theme=tokyonight&show_icons=true" height=150 />
 </a>
   <br>
   <a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaititeMohamed&langs_count=5&theme=tokyonight" height=150 />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Cherkawi&langs_count=5&theme=tokyonight" height=150 />
 </a>
 <br>
 <a>
