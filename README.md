@@ -16,7 +16,7 @@ I am a  learner developer .NET
 </a>
 <br>
 <a>
-  <img src="https://activity-graph.herokuapp.com/graph?username=MaititeMohamed&theme=rogue" width=50% height=200 alt="graph"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=Mohamed-Cherkawi&theme=rogue" width=50% height=200 alt="graph"/>
 </a>
 </div>
 
