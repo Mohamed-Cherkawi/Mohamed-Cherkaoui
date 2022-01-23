@@ -3,7 +3,7 @@
 
 
 
-I am a first yeqr learner developer 
+I am a first year learner developer 
 
 <img align="right" src="https://github.com/MaititeMohamed/MAITITEMOHAMED/blob/main/developer.svg" alt="Illustration of dev" width=350px height=500px/>
 <div align="center">
